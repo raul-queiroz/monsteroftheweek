@@ -1,0 +1,47 @@
+{
+  "Actor": {
+    "types": [
+      "hunter",
+      "monster"
+    ],
+    "templates": {
+      "common": {
+        "name": "",
+        "description": "",
+        "harm": {
+          "value": 0,
+          "max": 7
+        }
+      }
+    },
+    "hunter": {
+      "templates": [
+        "common"
+      ],
+      "playbook": "",
+      "ratings": {
+        "charm": {
+          "value": 0
+        },
+        "cool": {
+          "value": 0
+        },
+        "sharp": {
+          "value": 0
+        },
+        "tough": {
+          "value": 0
+        },
+        "weird": {
+          "value": 0
+        }
+      }
+    },
+    "monster": {
+      "templates": [
+        "common"
+      ]
+    }
+  },
+  "Item": {}
+}
