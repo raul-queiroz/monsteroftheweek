@@ -1,0 +1,8 @@
+{
+    "monsteroftheweek": {
+        "ranges":{
+            "close": "Close",
+            "far": "Far"
+        }
+    }
+}
