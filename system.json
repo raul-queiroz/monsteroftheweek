@@ -1,0 +1,29 @@
+{
+  "name": "monsteroftheweek",
+  "title": "Monster of the Week",
+  "description": "A simple, unofficial system for Monster of the Week",
+  "authors": [
+    {
+      "name": "Raul de Queiroz"
+    }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10.288",
+    "maximum": 10
+  },
+  "esmodules": [
+    "module/monsteroftheweek.mjs"
+  ],
+  "styles": [
+    "css/monsteroftheweek.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
